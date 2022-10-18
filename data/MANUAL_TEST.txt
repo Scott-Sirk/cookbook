@@ -1,0 +1,14 @@
+peanuts
+broken leg
+heart attack
+sulfa
+hives
+shellfish
+flu
+covid
+covid-19 vaccine
+213       |SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED|SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED|Unspecified code for COVID-19 not to be used to record patient US administration. May be used to record historic US administration if product not known.  CVX code 500 should be used to record Non-US vaccine where product is not known.|Inactive|False|2021/07/31
+SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED|SARS-COV-2 (COVID-19) vaccine, UNSPECIFIED
+covid
+rash
+swelling

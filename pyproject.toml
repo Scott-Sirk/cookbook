@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cookbook"
+version = "0.0.7"
+authors = [
+  { name="Scott Sirk" },
+]
+description = "General Python utility and some projects I'm playing with"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+	"pandas"
+	, "sklearn"
+	, "numpy"
+	, "requests"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Scott-Sirk/cookbook"
