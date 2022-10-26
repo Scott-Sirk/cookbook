@@ -30,7 +30,7 @@
 			* in-file: as many files as you want with raw text data to train the model with.  Note that the file name will be used as the "answers" for the model
 			* save-as: file to save data to.  The pickle file includes the trained model and vocabulary of the bag-of-words
 	* Use a model
-		`python -m cookbook.cli.text_classifier_api.predict --model-file=./data/text-classifier-v2.pkl --data-file=./data/MANUAL_TEST.txt --show --proba`
+		* `python -m cookbook.cli.text_classifier_api.predict --model-file=./data/text-classifier-v2.pkl --data-file=./data/MANUAL_TEST.txt --show --proba`
 			* model-file: locatino of pickle file created when building a model
 			* data-file: location of raw data to read/make predictions against
 			* show: bool flag to show results
